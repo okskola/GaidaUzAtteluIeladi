@@ -1,0 +1,1 @@
+Funkcija, kas gaida uz attēla ielādi.
